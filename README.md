@@ -1,3 +1,8 @@
+
+## 發佈頁面
+
+[主站](https://freejavbt.com)
+
 ## 最新網址
 
 
@@ -7,6 +12,3 @@
 
 [站點3](https://kikiav.com)
 
-## 發佈頁面
-
-[主站](https://freejavbt.com)
